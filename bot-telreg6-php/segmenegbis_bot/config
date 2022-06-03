@@ -1,0 +1,12 @@
+WEBHOOK = https://api.telegram.org/bot5363203716:AAEenh3h-kk--5zyaGMKBG0qs9fDk9q8flE/setwebhook?url=https://9b60-180-250-126-146.ngrok.io/segmenegbis_bot/
+DELETEWEBHOOK = https://api.telegram.org/bot5363203716:AAEenh3h-kk--5zyaGMKBG0qs9fDk9q8flE/deleteWebhook
+SAVEEXCELPBASO = https://9b60-180-250-126-146.ngrok.io/segmenegbis_bot/excelPbaso.php
+SAVEEXCELENDDATE = https://9b60-180-250-126-146.ngrok.io/segmenegbis_bot/excelEnddate.php
+
+INFINITYFREEAPP
+username = epiz_31597862
+password = telkomregional-6 ofu4Ocnrhtc
+
+DB
+dbname = epiz_31597862_db_tr6bot
+username = epiz_31597862
