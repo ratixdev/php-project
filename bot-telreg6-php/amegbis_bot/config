@@ -1,5 +1,0 @@
-WEBHOOK = https://api.telegram.org/bot5381156800:AAHWpXiM-pJhzq-VfR_82pXx8_3crcDBIAo/setwebhook?url=https://bdae-2404-c0-8310-00-530-aaf3.ngrok.io/amegbis_bot/
-GETUPDATE = https://api.telegram.org/bot5381156800:AAHWpXiM-pJhzq-VfR_82pXx8_3crcDBIAo/getUpdates
-DELETEWEBHOOK = https://api.telegram.org/bot5381156800:AAHWpXiM-pJhzq-VfR_82pXx8_3crcDBIAo/deleteWebhook
-LINKPBASO = https://bdae-2404-c0-8310-00-530-aaf3.ngrok.io/amegbis_bot/pbaso.php
-LINKENDDATE = https://bdae-2404-c0-8310-00-530-aaf3.ngrok.io/amegbis_bot/enddate.php
